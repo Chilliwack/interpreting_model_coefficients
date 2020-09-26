@@ -8,4 +8,4 @@ In this notebook, you will fit a few different models and use the quizzes below 
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-Please see the [notebook](https://github.com/Chilliwack/interpreting_model_coefficients) for further details: https://github.com/Chilliwack/interpreting_model_coefficients.ipynb
+Please see the [notebook](https://github.com/Chilliwack/interpreting_model_coefficients/blob/master/interpreting_model_coefficients.ipynb) for further details: https://github.com/Chilliwack/interpreting_model_coefficients/blob/master/interpreting_model_coefficients.ipynb
