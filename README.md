@@ -1,6 +1,8 @@
 # interpreting_model_coefficients
 
-**interpreting_model_coefficients** reviews fitting models and interpreting their coefficients.
+**interpreting_model_coefficients** reviews fitting models and interpreting their coefficients using Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities. Task is to build an optimal model based on statistical analysis. This model will then be used to estimate the best selling price.
+
+
 
 It is important that not only can you fit complex linear models, but that you then know which variables you can interpret.
 
